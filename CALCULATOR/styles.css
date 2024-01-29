@@ -1,0 +1,53 @@
+body{
+    background-color: #c76363;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.main{
+    width: 25%;
+    height: 90vh;
+    margin: 0 auto;
+    background-color: rgb(18, 18, 48);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    min-width: 55px;
+}
+
+button{
+    font-size: 3rem;
+    width: 22.9%;
+    margin: 1% 0.5% 1% 0.5%;
+    border-radius: 5px;
+    height: 76px;
+}
+
+input{
+    min-height: 7rem;
+    margin: 5px;
+    margin-left: 5.5px;
+    width: 95%;
+    font-size: 4rem;
+    text-align: right;
+    background-color: gray;
+    color: #fff;
+    border-radius: 5px;
+    /* border: none; */
+} 
+
+.stretched-buttons{
+    width: 48%;
+}
+
+.calc-buttons{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.screen{
+    margin-right: 5px;
+}
